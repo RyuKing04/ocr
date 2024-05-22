@@ -3,7 +3,7 @@ import easyocr
 import matplotlib.pyplot as plt
 
 # Ruta de la imagen escaneada
-image_path = 'Texto.png'
+image_path = 'Texto_scaneado.png'
 
 # Leer la imagen
 img = cv2.imread(image_path)
