@@ -24,3 +24,10 @@ You can install these dependencies using pip:
 
 ```sh
 pip install opencv-python easyocr matplotlib pandas numpy pymupdf openpyxl
+
+
+## You can run the program using this comand
+- `python ocr.py`
+- `python read.py`
+
+
