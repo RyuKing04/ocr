@@ -26,7 +26,7 @@ You can install these dependencies using pip:
 pip install opencv-python easyocr matplotlib pandas numpy pymupdf openpyxl
 ``
 
-## You can run the program using this comand
+## You can run the program using this command
 - `python ocr.py`
 - `python read.py`
 
