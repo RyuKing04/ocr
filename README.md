@@ -22,9 +22,9 @@ Make sure you have the following libraries installed:
 
 You can install these dependencies using pip:
 
-```sh
+``
 pip install opencv-python easyocr matplotlib pandas numpy pymupdf openpyxl
-
+``
 
 ## You can run the program using this comand
 - `python ocr.py`
